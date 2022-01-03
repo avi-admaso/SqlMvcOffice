@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMvcOffice", "SqlMvcOffice\SqlMvcOffice.csproj", "{DAA0A429-AA5C-4E39-9070-6816266B53DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA0A429-AA5C-4E39-9070-6816266B53DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA0A429-AA5C-4E39-9070-6816266B53DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA0A429-AA5C-4E39-9070-6816266B53DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA0A429-AA5C-4E39-9070-6816266B53DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0784930D-E0BC-4248-B01B-485B5E28067E}
+	EndGlobalSection
+EndGlobal
